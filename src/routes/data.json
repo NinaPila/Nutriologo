@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "nombre": "Ana",
+    "edad": "23",
+    "peso": "68",
+    "altura": "1.60",
+    "genero": "Femenino"
+  },
+  {
+    "id": "2",
+    "nombre": "Luis Gómez",
+    "edad": 22,
+    "peso": 78,
+    "altura": 1.72,
+    "genero": "Masculino",
+    "imc": "26.37",
+    "calorias": 2842
+  },
+  {
+    "id": "3",
+    "nombre": "Michelle",
+    "edad": 40,
+    "peso": 100,
+    "altura": 1.54,
+    "genero": "Femenino",
+    "imc": "42.17",
+    "calorias": 2593
+  },
+  {
+    "id": "4",
+    "nombre": "Carlos",
+    "edad": "18",
+    "peso": "100",
+    "altura": "1.67",
+    "genero": "Masculino"
+  },
+  {
+    "id": "5",
+    "nombre": "Sabrina",
+    "edad": "26",
+    "peso": "120",
+    "altura": "1.79",
+    "genero": "Femenino"
+  }
+]

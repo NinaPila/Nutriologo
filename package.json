@@ -15,6 +15,6 @@
     "morgan": "^1.10.0"
   },
   "devDependencies": {
-    "node": "^3.1.9"
+    "node": "22.14.0"
   }
 }
